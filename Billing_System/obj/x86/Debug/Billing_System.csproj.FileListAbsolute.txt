@@ -1,0 +1,6 @@
+C:\Users\keval jagani\Desktop\Billing_System\Billing_System\obj\x86\Debug\Billing_System.csprojAssemblyReference.cache
+C:\Users\keval jagani\Desktop\Billing_System\Billing_System\obj\x86\Debug\Billing_System.Buy.resources
+C:\Users\keval jagani\Desktop\Billing_System\Billing_System\obj\x86\Debug\Billing_System.frmDashboard.resources
+C:\Users\keval jagani\Desktop\Billing_System\Billing_System\obj\x86\Debug\Billing_System.Properties.Resources.resources
+C:\Users\keval jagani\Desktop\Billing_System\Billing_System\obj\x86\Debug\Billing_System.Sell.resources
+C:\Users\keval jagani\Desktop\Billing_System\Billing_System\obj\x86\Debug\Billing_System.csproj.GenerateResource.cache
